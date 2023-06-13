@@ -1,0 +1,10 @@
+* shuffletron
+
+A music player based on search and tagging, with a terminal UI, for Linux, written in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ahefner/shuffletron.git   |
+| commit  | c84a0a4  |
+| systems | shuffletron |
+|---------+-------------------------------------------|
+
