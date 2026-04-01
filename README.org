@@ -7,3 +7,4 @@ A music player based on search and tagging, with a terminal UI, for Linux, writt
 | commit  | 49e8e8d                                        |
 | systems | shuffletron                                    |
 |---------+------------------------------------------------|
+ 
